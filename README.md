@@ -1,4 +1,4 @@
-# MongoDB x .Net end course project 
+# MongoDB x .Net CLI end course project 
 
 *Certified by: Technical University of Applied Sciences Wildau*
 
